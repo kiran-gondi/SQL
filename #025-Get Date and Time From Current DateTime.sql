@@ -1,0 +1,16 @@
+--#025-Get Date and Time From Current DateTime
+
+SELECT GETDATE()
+GO
+
+--SQL Server 2000/2005
+SELECT
+CONVERT(VARCHAR(8), GETDATE(), 108) AS HourMinuteSecond,
+CONVERT(VARCHAR(8), GETDATE(), 101) AS DateOnly
+GO
+
+--SQL Server 2008 Onwards
+SELECT
+CONVERT(TIME, GETDATE()) AS HourMinuteSecond;
+SELECT
+CONVERT(DATE, GETDATE()) AS DateOnly

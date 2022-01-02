@@ -1,0 +1,3 @@
+--#017-Tricks to Replace SELECT * with Column Names
+--Go and watch the video. i.e. https://www.youtube.com/watch?v=snlWWxNTb60&list=PL4BD5C24EDB584162&index=171
+--Chances are there this link might be changed in future.

@@ -1,0 +1,3 @@
+--#016-SQL Server Standard Reports - SSMS
+--Go and watch the video. i.e. https://www.youtube.com/watch?v=ORtv29rxXJI&list=PL4BD5C24EDB584162&index=172
+--Chances are there this link might be changed in future.
