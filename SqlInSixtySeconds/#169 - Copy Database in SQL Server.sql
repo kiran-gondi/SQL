@@ -1,0 +1,3 @@
+--#169 - Copy Database in SQL Server
+--Go through the video for settings in SQL IDE
+--https://www.youtube.com/watch?v=hbRcZTN6KVE&list=PL4BD5C24EDB584162&index=22
